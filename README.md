@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xMasa-1022
+- 🌱 I’m currently learning [Discord.py](https://github.com/Rapptz/discord.py)
+- 📫 Contact: [Mail: contact@xmasa-s.win](mailto:contact@xmasa-s.win) or Discord: Masa#9196 (368342356660846592)![valorant_](https://user-images.githubusercontent.com/75792981/194553539-70a07331-21ec-4cef-b363-153f2e53a65d.jpg)
