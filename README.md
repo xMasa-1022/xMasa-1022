@@ -15,7 +15,7 @@
 
 - 🎓️ I'm 2nd High-school Student.
 - 🕶️ Learning *Python* since 2019.
-- 🗨️ Making a some bots with *Discord.py*.
+- 🗨️ Making a some bots with [*Discord.py*](https://github.com/Rapptz/discord.py).
 
 :: 大阪在住の高校生開発者です。
 気軽に話しかけてください！ ::
