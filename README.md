@@ -1,4 +1,5 @@
-```
+```shell
+$ cat profile.txt
 ┌─ Name: xMasa
 ├─ Age: 17
 ├─ Country: Japan ( Osaka )
@@ -11,6 +12,11 @@
 └┬ Socials:
  ├─ YouTube: https://youtube.com/xMasa
  └─ Twitch: https://twitch.tv/xMasa1022
+
+$ cat skills.txt
+ - 情報技術検定 - 3級
+ - パソコン利用技術検定 - 2級
+ - 実用英語技能検定 - 準2級
 ```
 
 - 🎓️ I'm 2nd High-school Student.
