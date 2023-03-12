@@ -11,7 +11,8 @@ $ cat profile.txt
 │
 └┬ Socials:
  ├─ YouTube: https://youtube.com/xMasa
- └─ Twitch: https://twitch.tv/xMasa1022
+ ├─ Twitch: https://twitch.tv/xMasa1022
+ └─ Team: https://github.com/xMasa-Developments
 
 $ cat skills.txt
  - 情報技術検定 - 3級
