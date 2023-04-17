@@ -20,7 +20,7 @@ $ cat skills.txt
  - 実用英語技能検定 - 準2級
 ```
 
-- 🎓️ I'm 2nd High-school Student.
+- 🎓️ I'm 3rd High-school Student.
 - 🕶️ Learning *Python* since 2019.
 - 🗨️ Making a some bots with [*Discord.py*](https://github.com/Rapptz/discord.py).
 
