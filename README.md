@@ -1,23 +1,18 @@
 ```shell
 $ cat profile.txt
 ┌─ Name: xMasa
-├─ Age: 17
+├─ Age: 18
 ├─ Country: Japan ( Osaka )
 │
 ├┬ Contact:
 │├─ Mail: contact@xmasa-s.win
-│├─ Discord: Masa#9196
-│└─ Twitter: @xMasa1022
+│├─ Discord: Masa#9196 -> .xmasa
+│└─ Twitter (X): @xMasa1022
 │
 └┬ Socials:
  ├─ YouTube: https://youtube.com/xMasa
  ├─ Twitch: https://twitch.tv/xMasa1022
  └─ Team: https://github.com/xMasa-Development
-
-$ cat skills.txt
- - 情報技術検定 - 3級
- - パソコン利用技術検定 - 2級
- - 実用英語技能検定 - 準2級
 ```
 
 - 🎓️ I'm 3rd High-school Student.
