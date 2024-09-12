@@ -3,7 +3,7 @@
 - 🇯🇵 Osaka, Japan
 
 # 💬Socials
-- Twitter: [@xM4sa](https://twitter.com/xM4sa) // [@_mqs4_](https://twitter.com/_mqs4_)
+- Twitter: [@xM4sa](https://twitter.com/xM4sa) // [@\_mqs4\_](https://twitter.com/_mqs4_)
 - Twitch: [@xM4sa](https://twitch.tv/xM4sa)
 - YouTube: [@xMasa](https://youtube.com/@xMasa)
 - Webs(Portfolio): [x6s.xyz](https://x6s.xyz) // [xmasa-s.win](https://xmasa-s.win)
