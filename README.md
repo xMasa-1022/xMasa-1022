@@ -20,3 +20,6 @@
 # ❓Contact
 - Mail: [contact@x6s.xyz](mailto:contact@x6s.xyz)
 - Discord: [@xm4sa](https://discord.com/users/368342356660846592)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xMasa-1022&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xMasa-1022&theme=moonlight)
