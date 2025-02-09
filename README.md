@@ -14,7 +14,7 @@
 
 # 🛠️Groups
 - [xMasa-Development](https://github.com/xMasa-Development) - Owner
-- [MAIOTANetwork](https://discord.gg/bzNDwAT8YK) - Admin
+- [MAIOTANetwork](https://discord.gg/bzNDwAT8YK) (*Service Ended.) - Admin
 - [Doragoma Network](https://discord.gg/BFxFJwV) - Staff
 
 # ❓Contact
